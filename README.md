@@ -1,8 +1,16 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 # 👋 ¡Hola! Soy Wilver Emilio Xiá Ixcot
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Backend+%7C+Frontend+%7C+APIs;ReactJS+%2B+FastAPI+%2B+Node.js;Estudiante+de+Ingeniería+en+Sistemas;Siempre+aprendiendo+y+mejorando+💡" alt="Typing SVG" />
+
+<br>
+
+### 🚀 Desarrollador Full Stack | Quetzaltenango, Guatemala 🇬🇹
+
+<br>
 
 <p align="center">
   <a href="https://portafoliowxi.netlify.app/" target="_blank">
@@ -16,19 +24,21 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
 ---
 
-## 🚀 Desarrollador Full Stack | Quetzaltenango, Guatemala 🇬🇹
+<div align="center">
 
 Soy estudiante de **Ingeniería en Sistemas** en la Universidad Mesoamericana con experiencia práctica en el desarrollo de aplicaciones web modernas y gestión de proyectos de software. Me especializo en crear soluciones eficientes, escalables y centradas en el usuario utilizando tecnologías de vanguardia.
 
 **🎯 Mi enfoque:** Combinar excelencia técnica con valores sólidos de compromiso, responsabilidad y trabajo en equipo.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💼 Experiencia Profesional
 
@@ -61,7 +71,11 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 - 🔄 Consumo e integración de APIs RESTful
 - 🚀 Optimización de rendimiento y buenas prácticas fullstack
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Stack Tecnológico
 
@@ -129,6 +143,8 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ---
 
+<div align="center">
+
 ## 🎓 Formación Académica
 
 ```yaml
@@ -142,11 +158,13 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
    Colegio Avances | 2019 - 2020
 ```
 
+</div>
+
 ---
 
-## 💪 Habilidades Blandas
-
 <div align="center">
+
+## 💪 Habilidades Blandas
 
 | 🤝 Soft Skills | ⭐ Nivel |
 |---------------|---------|
@@ -161,9 +179,9 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ---
 
-## 🌐 Idiomas
-
 <div align="center">
+
+## 🌐 Idiomas
 
 ![Spanish](https://img.shields.io/badge/Español-Nativo-brightgreen?style=for-the-badge)
 ![English](https://img.shields.io/badge/Inglés-Intermedio-blue?style=for-the-badge)
@@ -172,9 +190,9 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ---
 
-## 📈 Proyectos Destacados
-
 <div align="center">
+
+## 📈 Proyectos Destacados
 
 | 🚀 Proyecto | 💻 Tecnologías | 📝 Descripción |
 |-------------|---------------|----------------|
@@ -186,9 +204,9 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ---
 
-## 💭 Filosofía de Trabajo
-
 <div align="center">
+
+## 💭 Filosofía de Trabajo
 
 > ### *"El código es poesía en movimiento"*
 > 
@@ -201,9 +219,9 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ---
 
-## 📫 Conectemos
-
 <div align="center">
+
+## 📫 Conectemos
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portafoliowxi.netlify.app-00d9ff?style=for-the-badge)](https://portafoliowxi.netlify.app/)
 [![Email](https://img.shields.io/badge/📧_Email-ixcotwilver@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ixcotwilver@gmail.com)
@@ -213,6 +231,8 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 </div>
 
 ---
+
+<div align="center">
 
 <div align="center">
 
