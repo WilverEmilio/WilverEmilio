@@ -121,16 +121,16 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Wilver Xiá github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WILVEREMILIO&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Wilver Xiá github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILVEREMILIO&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WILVEREMILIO&theme=dark&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&custom_title=Contribuciones%20en%20el%20último%20año&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WILVEREMILIO&custom_title=Contribuciones%20en%20el%20último%20año&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" height="300" alt="Activity Graph" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WILVEREMILIO&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -246,9 +246,9 @@ Desarrollé una aplicación e-commerce completa desde cero con tecnologías mode
 
 ### 💻 *"Construyendo el futuro, una línea de código a la vez"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00d9ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=WILVEREMILIO&color=00d9ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
-⭐️ Made with 💙 by [Wilver Xiá Ixcot](https://github.com/TU_USUARIO)
+⭐️ Made with 💙 by [Wilver Xiá Ixcot](https://github.com/WILVEREMILIO)
 
 </div>
 
